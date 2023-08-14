@@ -10,3 +10,5 @@ In this project i used two microcontrollers and made communication between them 
   7- keypad,
   8- leds.
 In this project i used many prephirals in avr microcontrolles like : dio, adc, spi, timers.
+
+link for video -->  https://drive.google.com/file/d/1Tj1WoyXIOQuIhCk0FWeL3jM_orvft-ur/view?usp=drive_link
